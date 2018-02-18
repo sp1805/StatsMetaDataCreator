@@ -1,0 +1,6 @@
+c:\users\sprajapati\documents\visual studio 2015\Projects\StatMetaDataHelper\StatMetaDataHelper\bin\Debug\StatMetaDataHelper.exe.config
+c:\users\sprajapati\documents\visual studio 2015\Projects\StatMetaDataHelper\StatMetaDataHelper\bin\Debug\StatMetaDataHelper.exe
+c:\users\sprajapati\documents\visual studio 2015\Projects\StatMetaDataHelper\StatMetaDataHelper\bin\Debug\StatMetaDataHelper.pdb
+c:\users\sprajapati\documents\visual studio 2015\Projects\StatMetaDataHelper\StatMetaDataHelper\obj\Debug\StatMetaDataHelper.csprojResolveAssemblyReference.cache
+c:\users\sprajapati\documents\visual studio 2015\Projects\StatMetaDataHelper\StatMetaDataHelper\obj\Debug\StatMetaDataHelper.exe
+c:\users\sprajapati\documents\visual studio 2015\Projects\StatMetaDataHelper\StatMetaDataHelper\obj\Debug\StatMetaDataHelper.pdb
